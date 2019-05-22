@@ -1,0 +1,6 @@
+Flight 1: A, F (Cost)
+A --> E --> C --> F. Cost: 354 Time: 306
+Flight 2: A, B (Time)
+A --> B. Time: 50 Cost: 10
+Flight 3: A, H (Time)
+H. Time: 2147483647 Cost: 2147483647
